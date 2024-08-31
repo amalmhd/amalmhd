@@ -1,5 +1,5 @@
 Hey there!
-Amal Muhammed here is an undergrad in Computer Science and Engineering.
+Amal Muhammed here is a Computer Science and Engineering undergrad.
 
 This avid coder loves to unravel the mysteries of code while simultaneously immersing himself in the rich worlds of literature.
 
