@@ -1,5 +1,5 @@
 Hey there!
-Amal Muhammed here is in pursuit for his B.Tech degree in Computer Science and Engineering.
+Amal Muhammed here is an undergrad in Computer Science and Engineering.
 
 He is a passionate coder exploring the wonders of computer science domain. This avid coder loves to unravel the mysteries of code while simultaneously immersing himself in the rich worlds of literature.
 
